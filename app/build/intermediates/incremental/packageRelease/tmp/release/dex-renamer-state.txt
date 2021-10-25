@@ -1,0 +1,4 @@
+#Mon Oct 25 11:55:10 EDT 2021
+base.0=C\:\\Users\\12245629\\Downloads\\git\\WhackMe\\WhackMe\\WhackMe_pde\\android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
