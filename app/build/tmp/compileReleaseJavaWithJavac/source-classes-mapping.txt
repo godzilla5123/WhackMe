@@ -1,7 +1,0 @@
-com/kevinvalencia/molesquash/BuildConfig.java
- com.kevinvalencia.molesquash.BuildConfig
-com/kevinvalencia/molesquash/WhackMe_pde.java
- com.kevinvalencia.molesquash.WhackMe_pde
- com.kevinvalencia.molesquash.WhackMe_pde$Points
-com/kevinvalencia/molesquash/MainActivity.java
- com.kevinvalencia.molesquash.MainActivity
